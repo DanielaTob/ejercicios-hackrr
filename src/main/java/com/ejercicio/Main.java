@@ -1,6 +1,4 @@
-package com.ejericio;
-
-import java.util.List;
+package com.ejercicio;
 
 public class Main {
     public static void main(String[] args) {

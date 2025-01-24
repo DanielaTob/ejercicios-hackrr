@@ -1,4 +1,4 @@
-package com.ejericio;
+package com.ejercicio;
 
 import org.json.JSONArray; // Importa la clase para manejar arreglos en JSON.
 
